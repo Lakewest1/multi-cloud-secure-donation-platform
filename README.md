@@ -232,22 +232,32 @@ Every control evaluated on **Security Value vs Cost vs Operational Overhead**.
 multi-cloud-secure-donation-platform/
 │
 ├── README.md
-├── architecture/
-│ ├── cloud-architecture.png
-│ └── threat-model.png
-├── security/
-│ ├── iam-policies.md
-│ ├── encryption-strategy.md
-│ └── logging-monitoring.md
-├── compliance/
-│ ├── pci-dss-mapping.md
-│ └── gdpr-controls.md
-├── ci-cd/
-│ └── secure-pipeline.md
-├── evidence/
-│ └── screenshots/
-└── report/
-└── Cloud_Security_Implementation_Report.docx
+│
+├── docs/
+│   ├── architecture/
+│   │   ├── cloud-architecture.png
+│   │   └── threat-model.png
+│   │
+│   ├── security/
+│   │   ├── iam-policies.md
+│   │   ├── encryption-strategy.md
+│   │   └── logging-monitoring.md
+│   │
+│   ├── compliance/
+│   │   ├── pci-dss-mapping.md
+│   │   └── gdpr-controls.md
+│   │
+│   ├── ci-cd/
+│   │   └── secure-pipeline.md
+│   │
+│   └── evidence/
+│       └── screenshots/
+│
+├── reports/
+│   └── Cloud_Security_Implementation_Report.docx
+│
+└── .gitignore
+
 
 ---
 
