@@ -230,9 +230,9 @@ Every control evaluated on **Security Value vs Cost vs Operational Overhead**.
 
 ## Repository Structure
 multi-cloud-secure-donation-platform/
-│
 ├── README.md
-│
+├── .gitignore
+
 ├── docs/
 │   ├── architecture/
 │   │   ├── cloud-architecture.png
@@ -252,11 +252,9 @@ multi-cloud-secure-donation-platform/
 │   │
 │   └── evidence/
 │       └── screenshots/
-│
+
 ├── reports/
 │   └── Cloud_Security_Implementation_Report.docx
-│
-└── .gitignore
 
 
 ---
