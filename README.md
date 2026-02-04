@@ -226,38 +226,38 @@ Every control evaluated on **Security Value vs Cost vs Operational Overhead**.
 - PCI DSS & GDPR Compliance
 - Security Documentation
 
----
-
 ## Repository Structure
+```
 multi-cloud-secure-donation-platform/
+│
 ├── README.md
-├── .gitignore
-
+│
 ├── docs/
-│   ├── architecture/
-│   │   ├── cloud-architecture.png
-│   │   └── threat-model.png
-│   │
-│   ├── security/
-│   │   ├── iam-policies.md
-│   │   ├── encryption-strategy.md
-│   │   └── logging-monitoring.md
-│   │
-│   ├── compliance/
-│   │   ├── pci-dss-mapping.md
-│   │   └── gdpr-controls.md
-│   │
-│   ├── ci-cd/
-│   │   └── secure-pipeline.md
-│   │
-│   └── evidence/
-│       └── screenshots/
-
+│
+├── architecture/
+│   ├── cloud-architecture.png
+│   └── threat-model.png
+│
+├── security/
+│   ├── iam-policies.md
+│   ├── encryption-strategy.md
+│   └── logging-monitoring.md
+│
+├── compliance/
+│   ├── pci-dss-mapping.md
+│   └── gdpr-controls.md
+│
+├── ci-cd/
+│   └── secure-pipeline.md
+│
+├── evidence/
+│   └── screenshots/
+│
 ├── reports/
 │   └── Cloud_Security_Implementation_Report.docx
-
-
----
+│
+└── .gitignore
+```
 
 ## Access Model
 
