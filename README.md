@@ -17,20 +17,20 @@ It protects **real financial transactions** and **real users** in a live product
 
 ---
 
-## Role Demonstrated
+## Role
 **Cloud Security Engineer / DevSecOps Engineer**
-
+(Independent / Client Engagement – NGO Platform)
 ---
 
 ## Problem Statement
 
-Design and operate a **PCI DSS–aligned donation platform** that:
+Design and secure a donation platform that:
 
 - Handles real payments securely  
 - Meets **99.9%+ availability**
 - Defends against **OWASP Top 10** threats
-- Operates on a **startup-level budget**
-- Remains **audit-ready** at all times  
+- Remains **cost-efficient** for NGO operations
+- Is continuously **auditable and monitorable** 
 
 ---
 
